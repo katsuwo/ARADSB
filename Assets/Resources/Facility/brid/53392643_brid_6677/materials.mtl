@@ -1,0 +1,17 @@
+# Created with FME Version: FME(R) 2020.2.0.0 20201027 - Build 20787 - WIN64
+newmtl hnap0972
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0972.png
+
+newmtl hnap0969
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0969.png
+
+newmtl hnap1335
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1335.png
+
+newmtl hnap0970
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0970.png
+

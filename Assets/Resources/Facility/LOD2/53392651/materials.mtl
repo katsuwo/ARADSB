@@ -1,0 +1,177 @@
+# Created with FME Version: FME(R) 2020.2.3.0 20210129 - Build 20820 - WIN64
+newmtl hnap0013
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0013.jpg
+
+newmtl hnap0332
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0332.jpg
+
+newmtl hnap0984
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0984.jpg
+
+newmtl hnap0331
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0331.jpg
+
+newmtl hnap0333
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0333.jpg
+
+newmtl hnap1180
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1180.jpg
+
+newmtl hnap0314
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0314.jpg
+
+newmtl hnap0355
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0355.jpg
+
+newmtl hnap0008
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0008.jpg
+
+newmtl hnap0354
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0354.jpg
+
+newmtl hnap0319
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0319.jpg
+
+newmtl hnap1262
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1262.jpg
+
+newmtl hnap0358
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0358.jpg
+
+newmtl hnap1104
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1104.jpg
+
+newmtl hnap0356
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0356.jpg
+
+newmtl hnap1092
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1092.jpg
+
+newmtl hnap0032
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0032.jpg
+
+newmtl hnap1337
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1337.jpg
+
+newmtl hnap0145
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0145.jpg
+
+newmtl hnap0330
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0330.jpg
+
+newmtl hnap1105
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1105.jpg
+
+newmtl hnap1115
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1115.jpg
+
+newmtl hnap0327
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0327.jpg
+
+newmtl hnap1116
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1116.jpg
+
+newmtl hnap0317
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0317.jpg
+
+newmtl hnap1182
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1182.jpg
+
+newmtl hnap1343
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1343.jpg
+
+newmtl hnap1073
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1073.jpg
+
+newmtl hnap1016
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1016.jpg
+
+newmtl hnap1223
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1223.jpg
+
+newmtl hnap0328
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0328.jpg
+
+newmtl hnap1020
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1020.jpg
+
+newmtl hnap0323
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0323.jpg
+
+newmtl hnap1184
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1184.jpg
+
+newmtl hnap1340
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1340.jpg
+
+newmtl hnap1121
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1121.jpg
+
+newmtl hnap1126
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1126.jpg
+
+newmtl hnap1165
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1165.jpg
+
+newmtl hnap0014
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0014.jpg
+
+newmtl hnap1114
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1114.jpg
+
+newmtl hnap0334
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0334.jpg
+
+newmtl hnap0318
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0318.jpg
+
+newmtl hnap1119
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1119.jpg
+
+newmtl hnap0326
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0326.jpg
+

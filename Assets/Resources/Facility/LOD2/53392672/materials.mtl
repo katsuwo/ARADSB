@@ -1,0 +1,61 @@
+# Created with FME Version: FME(R) 2020.2.3.0 20210129 - Build 20820 - WIN64
+newmtl hnap0586
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0586.jpg
+
+newmtl hnap0524
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0524.jpg
+
+newmtl hnap1293
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1293.jpg
+
+newmtl hnap0595
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0595.jpg
+
+newmtl hnap0593
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0593.jpg
+
+newmtl hnap0589
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0589.jpg
+
+newmtl hnap0584
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0584.jpg
+
+newmtl hnap0594
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0594.jpg
+
+newmtl hnap0592
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0592.jpg
+
+newmtl hnap0603
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0603.jpg
+
+newmtl hnap1294
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap1294.jpg
+
+newmtl hnap0596
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0596.jpg
+
+newmtl hnap0937
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0937.jpg
+
+newmtl hnap0583
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0583.jpg
+
+newmtl hnap0610
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\hnap0610.jpg
+
